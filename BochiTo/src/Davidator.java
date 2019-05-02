@@ -16,7 +16,7 @@ public class Davidator {
 				System.out.println("CORRECTO");
 				k = 1;
 			} else if (David.toLowerCase().equals("inteligente")) {
-				throw new RuntimeException("Are You Drunk?");
+				throw new RuntimeException("¿Estas Loco?");
 			} else {
 				System.out.println("Inteligente o Bobo, a ver si el Bobo eres tu...");
 				System.out.println("Una de las dos");
