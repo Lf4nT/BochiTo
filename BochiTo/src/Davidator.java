@@ -9,8 +9,8 @@ public class Davidator {
 
 		do {
 			System.out.println("Introduce la opcion Correcta, David es...");
-			System.out.println("1. Bobo");
-			System.out.println("2. Inteligente");
+			System.out.println("Bobo");
+			System.out.println("Inteligente");
 			David = s.nextLine();
 			if (David.toLowerCase().equals("bobo")) {
 				System.out.println("CORRECTO");
